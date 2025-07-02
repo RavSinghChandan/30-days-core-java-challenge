@@ -125,5 +125,6 @@ public class InterviewPractice {
         System.out.println("6. What is the difference between float and double?");
         System.out.println("7. How do you handle null values with wrapper classes?");
         System.out.println("8. What is the purpose of the Character wrapper class?");
+        "its basic and I practice it well "
     }
 } 
