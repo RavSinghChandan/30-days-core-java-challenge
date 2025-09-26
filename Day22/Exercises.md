@@ -1,51 +1,21 @@
-/** Exercises - Day 22: Java 8: Stream API Advanced
+# Day22 Exercises: Java 8: Stream API – Basics: map, filter, forEach
 
-Exercise 1: [Exercise description related to java 8: stream api advanced] Exercise 2: [Exercise description related to java 8: stream api advanced] Exercise 3: [Exercise description related to java 8: stream api advanced] Exercise 4: [Exercise description related to java 8: stream api advanced] Exercise 5: [Exercise description related to java 8: stream api advanced]  */
+## Objectives
+- Practice core concepts of the topic through hands-on prompts
+- Strengthen problem-solving and fluency without relying on solutions
 
-public class Exercises {
+## Prompts (No code; write solutions yourself)
+1. Write 3 short practice tasks directly related to the topic.
+2. Create 1 mini scenario that applies the topic to a simple real-world case.
+3. Draft 5–10 quick questions to self-check understanding.
+4. Design 1 challenge that combines this topic with at least one previous day.
+5. Reflect briefly: What was hardest? What did you learn?
 
-    // Exercise 1: [Exercise title]     public static void exercise1() {         System.out.println("=== Exercise 1: [Exercise Title] ===");
+## Guidance
+- Prefer incremental steps and small wins before the full challenge
+- Time-box each prompt (e.g., 10–20 minutes)
+- Save your attempts and notes below each prompt
 
-        // TODO: Implement exercise 1         // 1. [Step 1]         // 2. [Step 2]         // 3. [Step 3]
-
-        // Your code here:
-
-        System.out.println("Exercise 1 completed!");     }
-
-    // Exercise 2: [Exercise title]     public static void exercise2() {         System.out.println("\n=== Exercise 2: [Exercise Title] ===");
-
-        // TODO: Implement exercise 2         // 1. [Step 1]         // 2. [Step 2]         // 3. [Step 3]
-
-        // Your code here:
-
-        System.out.println("Exercise 2 completed!");     }
-
-    // Exercise 3: [Exercise title]     public static void exercise3() {         System.out.println("\n=== Exercise 3: [Exercise Title] ===");
-
-        // TODO: Implement exercise 3         // 1. [Step 1]         // 2. [Step 2]         // 3. [Step 3]
-
-        // Your code here:
-
-        System.out.println("Exercise 3 completed!");     }
-
-    // Exercise 4: [Exercise title]     public static void exercise4() {         System.out.println("\n=== Exercise 4: [Exercise Title] ===");
-
-        // TODO: Implement exercise 4         // 1. [Step 1]         // 2. [Step 2]         // 3. [Step 3]
-
-        // Your code here:
-
-        System.out.println("Exercise 4 completed!");     }
-
-    // Exercise 5: [Exercise title]     public static void exercise5() {         System.out.println("\n=== Exercise 5: [Exercise Title] ===");
-
-        // TODO: Implement exercise 5         // 1. [Step 1]         // 2. [Step 2]         // 3. [Step 3]
-
-        // Your code here:
-
-        System.out.println("Exercise 5 completed!");     }
-
-    public static void main(String[] args) {         System.out.println("Day 22 Exercises: Java 8: Stream API Advanced\n");
-
-        exercise1();         exercise2();         exercise3();         exercise4();         exercise5();
-
-        System.out.println("\n=== Challenge Questions ===");         System.out.println("1. [Challenge question 1]");         System.out.println("2. [Challenge question 2]");         System.out.println("3. [Challenge question 3]");         System.out.println("4. [Challenge question 4]");         System.out.println("5. [Challenge question 5]");     } }
+## Notes
+- Keep examples minimal; focus on core concept fluency
+- Avoid copying solutions; struggle productively first
